@@ -1,0 +1,419 @@
+ID,innings,overs,ballnumber,batter,bowler,non-striker,extra_type,batsman_run,extras_run,total_run,non_boundary,isWicketDelivery,player_out,kind,fielders_involved,BattingTeam
+1254115,1,12,3,AB de Villiers,SP Narine,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1254115,1,12,5,AB de Villiers,SP Narine,GJ Maxwell,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1254115,1,12,6,AB de Villiers,SP Narine,GJ Maxwell,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1254115,1,14,1,AB de Villiers,SP Narine,GJ Maxwell,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1254115,1,14,2,AB de Villiers,SP Narine,GJ Maxwell,,0,0,0,0,1,AB de Villiers,bowled,,Royal Challengers Bangalore
+1254113,1,13,3,AB de Villiers,DJ Bravo,D Padikkal,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1254113,1,13,6,AB de Villiers,DJ Bravo,D Padikkal,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1254108,1,16,1,AB de Villiers,JJ Bumrah,GJ Maxwell,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1254108,1,16,2,AB de Villiers,JJ Bumrah,GJ Maxwell,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1254108,1,16,3,AB de Villiers,JJ Bumrah,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1254108,1,16,5,AB de Villiers,JJ Bumrah,GJ Maxwell,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1254108,1,16,6,AB de Villiers,JJ Bumrah,GJ Maxwell,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1254108,1,16,7,AB de Villiers,JJ Bumrah,GJ Maxwell,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1254108,1,18,5,AB de Villiers,JJ Bumrah,DT Christian,,0,0,0,0,1,AB de Villiers,caught,Q de Kock,Royal Challengers Bangalore
+1254101,2,7,1,AB de Villiers,R Ashwin,KS Bharat,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1254101,2,7,2,AB de Villiers,R Ashwin,KS Bharat,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1254101,2,7,3,AB de Villiers,R Ashwin,KS Bharat,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1254101,2,7,4,AB de Villiers,R Ashwin,KS Bharat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1254101,2,7,6,AB de Villiers,R Ashwin,KS Bharat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1254076,2,6,5,AB de Villiers,RA Jadeja,GJ Maxwell,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1254076,2,6,6,AB de Villiers,RA Jadeja,GJ Maxwell,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1254076,2,8,4,AB de Villiers,RA Jadeja,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1254076,2,10,1,AB de Villiers,RA Jadeja,KA Jamieson,,0,0,0,0,1,AB de Villiers,bowled,,Royal Challengers Bangalore
+1254058,2,12,4,AB de Villiers,JJ Bumrah,GJ Maxwell,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1254058,2,12,5,AB de Villiers,JJ Bumrah,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1254058,2,16,1,AB de Villiers,JJ Bumrah,DT Christian,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1254058,2,16,6,AB de Villiers,JJ Bumrah,KA Jamieson,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1254058,2,18,1,AB de Villiers,JJ Bumrah,KA Jamieson,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1254058,2,18,2,AB de Villiers,JJ Bumrah,KA Jamieson,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1254058,2,18,3,AB de Villiers,JJ Bumrah,KA Jamieson,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1254058,2,18,4,AB de Villiers,JJ Bumrah,KA Jamieson,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1254058,2,18,6,AB de Villiers,JJ Bumrah,HV Patel,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1216547,1,16,1,AB de Villiers,JJ Bumrah,D Padikkal,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1216547,1,16,2,AB de Villiers,JJ Bumrah,D Padikkal,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1216547,1,16,3,AB de Villiers,JJ Bumrah,D Padikkal,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1216547,1,16,4,AB de Villiers,JJ Bumrah,D Padikkal,legbyes,0,1,1,0,0,,,,Royal Challengers Bangalore
+1216547,1,16,6,AB de Villiers,JJ Bumrah,D Padikkal,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1216547,1,18,2,AB de Villiers,JJ Bumrah,S Dube,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1216547,1,18,3,AB de Villiers,JJ Bumrah,S Dube,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1216547,1,18,6,AB de Villiers,JJ Bumrah,S Dube,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1216547,4,0,1,AB de Villiers,JJ Bumrah,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1216547,4,0,3,AB de Villiers,JJ Bumrah,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1216547,4,0,4,AB de Villiers,JJ Bumrah,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1216547,4,0,5,AB de Villiers,JJ Bumrah,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1216544,1,12,1,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1216544,1,12,3,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1216544,1,14,1,AB de Villiers,RA Jadeja,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1216544,1,14,2,AB de Villiers,RA Jadeja,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1216544,1,14,3,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1216544,1,14,5,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1216544,1,16,2,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1216544,1,16,5,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1216505,1,12,4,AB de Villiers,R Ashwin,D Padikkal,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1216505,1,12,5,AB de Villiers,R Ashwin,D Padikkal,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1216499,1,11,5,AB de Villiers,JJ Bumrah,D Padikkal,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1216499,1,11,6,AB de Villiers,JJ Bumrah,D Padikkal,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178417,1,7,1,AB de Villiers,R Ashwin,MM Ali,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1178417,1,7,2,AB de Villiers,R Ashwin,MM Ali,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178417,1,9,1,AB de Villiers,R Ashwin,MP Stoinis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178417,1,9,6,AB de Villiers,R Ashwin,MP Stoinis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178417,1,11,1,AB de Villiers,R Ashwin,MP Stoinis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178417,1,11,4,AB de Villiers,R Ashwin,MP Stoinis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178417,1,11,6,AB de Villiers,R Ashwin,MP Stoinis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178417,1,16,2,AB de Villiers,R Ashwin,MP Stoinis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178417,1,16,6,AB de Villiers,R Ashwin,MP Stoinis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1178414,1,6,4,AB de Villiers,RA Jadeja,PA Patel,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1178414,1,6,5,AB de Villiers,RA Jadeja,PA Patel,,0,0,0,0,1,AB de Villiers,caught,F du Plessis,Royal Challengers Bangalore
+1178406,1,3,4,AB de Villiers,JJ Bumrah,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1178406,1,3,5,AB de Villiers,JJ Bumrah,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1178406,1,3,6,AB de Villiers,JJ Bumrah,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1178406,1,5,2,AB de Villiers,JJ Bumrah,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1178406,1,5,3,AB de Villiers,JJ Bumrah,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1178406,1,5,4,AB de Villiers,JJ Bumrah,PA Patel,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1178406,1,5,5,AB de Villiers,JJ Bumrah,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1178406,1,5,6,AB de Villiers,JJ Bumrah,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1178406,1,12,1,AB de Villiers,SL Malinga,MM Ali,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178406,1,12,3,AB de Villiers,SL Malinga,MM Ali,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1178406,1,12,4,AB de Villiers,SL Malinga,MM Ali,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178406,1,12,6,AB de Villiers,SL Malinga,MM Ali,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178406,1,16,1,AB de Villiers,JJ Bumrah,MM Ali,,3,0,3,0,0,,,,Royal Challengers Bangalore
+1178406,1,16,4,AB de Villiers,JJ Bumrah,MM Ali,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178406,1,17,2,AB de Villiers,SL Malinga,MP Stoinis,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1178406,1,17,3,AB de Villiers,SL Malinga,MP Stoinis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178406,1,18,2,AB de Villiers,JJ Bumrah,AD Nath,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1178406,1,18,3,AB de Villiers,JJ Bumrah,AD Nath,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1178406,1,18,4,AB de Villiers,JJ Bumrah,AD Nath,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1178406,1,18,5,AB de Villiers,JJ Bumrah,AD Nath,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1178406,1,18,6,AB de Villiers,JJ Bumrah,AD Nath,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178406,1,19,1,AB de Villiers,SL Malinga,AD Nath,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1178406,1,19,2,AB de Villiers,SL Malinga,AD Nath,,1,0,1,0,1,AB de Villiers,run out,,Royal Challengers Bangalore
+1178403,2,8,2,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178403,2,8,4,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178403,2,8,6,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178403,2,10,4,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178403,2,10,6,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1178403,2,16,1,AB de Villiers,R Ashwin,MP Stoinis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1175372,1,12,2,AB de Villiers,SP Narine,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1175372,1,12,3,AB de Villiers,SP Narine,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1175372,1,12,4,AB de Villiers,SP Narine,V Kohli,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1175372,1,12,5,AB de Villiers,SP Narine,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1175372,1,12,6,AB de Villiers,SP Narine,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1175372,1,18,4,AB de Villiers,SP Narine,MP Stoinis,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1175372,1,18,5,AB de Villiers,SP Narine,MP Stoinis,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1175372,1,18,6,AB de Villiers,SP Narine,MP Stoinis,,0,0,0,0,1,AB de Villiers,caught,Shubman Gill,Royal Challengers Bangalore
+1175362,2,11,3,AB de Villiers,SL Malinga,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1175362,2,11,7,AB de Villiers,SL Malinga,V Kohli,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1175362,2,13,1,AB de Villiers,JJ Bumrah,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1175362,2,13,3,AB de Villiers,JJ Bumrah,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1175362,2,13,5,AB de Villiers,JJ Bumrah,SO Hetmyer,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1175362,2,13,6,AB de Villiers,JJ Bumrah,SO Hetmyer,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1175362,2,15,4,AB de Villiers,SL Malinga,SO Hetmyer,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1175362,2,15,5,AB de Villiers,SL Malinga,SO Hetmyer,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1175362,2,15,6,AB de Villiers,SL Malinga,SO Hetmyer,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1175362,2,15,7,AB de Villiers,SL Malinga,SO Hetmyer,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1175362,2,16,2,AB de Villiers,JJ Bumrah,C de Grandhomme,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1175362,2,18,2,AB de Villiers,JJ Bumrah,C de Grandhomme,legbyes,0,1,1,0,0,,,,Royal Challengers Bangalore
+1175362,2,18,5,AB de Villiers,JJ Bumrah,S Dube,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1175362,2,18,6,AB de Villiers,JJ Bumrah,S Dube,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1175362,2,19,3,AB de Villiers,SL Malinga,S Dube,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1175362,2,19,5,AB de Villiers,SL Malinga,S Dube,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1136595,1,6,2,AB de Villiers,RA Jadeja,PA Patel,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1136595,1,6,5,AB de Villiers,RA Jadeja,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1136595,1,6,6,AB de Villiers,RA Jadeja,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1136584,1,6,3,AB de Villiers,RA Jadeja,Q de Kock,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1136584,1,6,4,AB de Villiers,RA Jadeja,Q de Kock,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1136584,1,9,6,AB de Villiers,DJ Bravo,Q de Kock,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1136568,2,5,4,AB de Villiers,R Ashwin,Q de Kock,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1136568,2,5,6,AB de Villiers,R Ashwin,Q de Kock,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1136568,2,9,2,AB de Villiers,R Ashwin,Q de Kock,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1136568,2,11,6,AB de Villiers,R Ashwin,Mandeep Singh,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1136563,1,8,3,AB de Villiers,SP Narine,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1136563,1,8,6,AB de Villiers,SP Narine,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1136563,1,10,2,AB de Villiers,SP Narine,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1136563,1,10,3,AB de Villiers,SP Narine,V Kohli,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1136563,1,10,4,AB de Villiers,SP Narine,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1082636,1,4,2,AB de Villiers,SP Narine,Mandeep Singh,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1082636,1,4,3,AB de Villiers,SP Narine,Mandeep Singh,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1082636,1,4,4,AB de Villiers,SP Narine,Mandeep Singh,,0,0,0,0,1,AB de Villiers,bowled,,Royal Challengers Bangalore
+1082628,1,7,1,AB de Villiers,SL Malinga,TM Head,legbyes,0,1,1,0,0,,,,Royal Challengers Bangalore
+1082628,1,7,3,AB de Villiers,SL Malinga,TM Head,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1082628,1,7,4,AB de Villiers,SL Malinga,TM Head,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1082628,1,7,5,AB de Villiers,SL Malinga,TM Head,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1082621,1,6,1,AB de Villiers,RA Jadeja,KM Jadhav,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1082621,1,6,5,AB de Villiers,RA Jadeja,KM Jadhav,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1082621,1,8,2,AB de Villiers,RA Jadeja,KM Jadhav,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1082621,1,8,3,AB de Villiers,RA Jadeja,KM Jadhav,legbyes,0,1,1,0,0,,,,Royal Challengers Bangalore
+1082602,1,13,1,AB de Villiers,JJ Bumrah,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1082602,1,13,3,AB de Villiers,JJ Bumrah,V Kohli,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1082602,1,13,4,AB de Villiers,JJ Bumrah,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+981013,2,4,1,AB de Villiers,RA Jadeja,SR Watson,,1,0,1,0,0,,,,Royal Challengers Bangalore
+981013,2,4,3,AB de Villiers,RA Jadeja,SR Watson,,1,0,1,0,0,,,,Royal Challengers Bangalore
+981013,2,6,1,AB de Villiers,RA Jadeja,STR Binny,,1,0,1,0,0,,,,Royal Challengers Bangalore
+981013,2,6,5,AB de Villiers,RA Jadeja,STR Binny,,4,0,4,0,0,,,,Royal Challengers Bangalore
+981013,2,6,6,AB de Villiers,RA Jadeja,STR Binny,,4,0,4,0,0,,,,Royal Challengers Bangalore
+981013,2,9,1,AB de Villiers,RA Jadeja,STR Binny,,1,0,1,0,0,,,,Royal Challengers Bangalore
+981013,2,9,3,AB de Villiers,RA Jadeja,STR Binny,,1,0,1,0,0,,,,Royal Challengers Bangalore
+981013,2,9,6,AB de Villiers,RA Jadeja,Iqbal Abdulla,,1,0,1,0,0,,,,Royal Challengers Bangalore
+981013,2,11,2,AB de Villiers,DJ Bravo,Iqbal Abdulla,,1,0,1,0,0,,,,Royal Challengers Bangalore
+981013,2,11,4,AB de Villiers,DJ Bravo,Iqbal Abdulla,,4,0,4,0,0,,,,Royal Challengers Bangalore
+981013,2,11,5,AB de Villiers,DJ Bravo,Iqbal Abdulla,,1,0,1,0,0,,,,Royal Challengers Bangalore
+981013,2,12,1,AB de Villiers,RA Jadeja,Iqbal Abdulla,,0,0,0,0,0,,,,Royal Challengers Bangalore
+981013,2,12,2,AB de Villiers,RA Jadeja,Iqbal Abdulla,,1,0,1,0,0,,,,Royal Challengers Bangalore
+981013,2,12,5,AB de Villiers,RA Jadeja,Iqbal Abdulla,,1,0,1,0,0,,,,Royal Challengers Bangalore
+981013,2,13,1,AB de Villiers,DJ Bravo,Iqbal Abdulla,,1,0,1,0,0,,,,Royal Challengers Bangalore
+981013,2,13,4,AB de Villiers,DJ Bravo,Iqbal Abdulla,,1,0,1,0,0,,,,Royal Challengers Bangalore
+981013,2,17,1,AB de Villiers,DJ Bravo,Iqbal Abdulla,legbyes,0,4,4,0,0,,,,Royal Challengers Bangalore
+981013,2,17,2,AB de Villiers,DJ Bravo,Iqbal Abdulla,,0,0,0,0,0,,,,Royal Challengers Bangalore
+981013,2,17,3,AB de Villiers,DJ Bravo,Iqbal Abdulla,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+981013,2,17,4,AB de Villiers,DJ Bravo,Iqbal Abdulla,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980995,2,7,4,AB de Villiers,SP Narine,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980995,2,7,5,AB de Villiers,SP Narine,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980995,2,15,3,AB de Villiers,SP Narine,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980995,2,15,6,AB de Villiers,SP Narine,V Kohli,,6,0,6,0,0,,,,Royal Challengers Bangalore
+980987,1,7,1,AB de Villiers,DJ Bravo,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980987,1,7,2,AB de Villiers,DJ Bravo,V Kohli,,2,0,2,0,0,,,,Royal Challengers Bangalore
+980987,1,7,3,AB de Villiers,DJ Bravo,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+980987,1,7,4,AB de Villiers,DJ Bravo,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980987,1,7,6,AB de Villiers,DJ Bravo,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980987,1,8,1,AB de Villiers,RA Jadeja,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980987,1,8,2,AB de Villiers,RA Jadeja,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980987,1,8,3,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980987,1,8,6,AB de Villiers,RA Jadeja,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980987,1,10,2,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980987,1,10,6,AB de Villiers,RA Jadeja,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980987,1,12,1,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980987,1,12,3,AB de Villiers,RA Jadeja,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980987,1,12,4,AB de Villiers,RA Jadeja,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+980987,1,12,5,AB de Villiers,RA Jadeja,V Kohli,,6,0,6,0,0,,,,Royal Challengers Bangalore
+980987,1,12,6,AB de Villiers,RA Jadeja,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980987,1,13,2,AB de Villiers,DJ Bravo,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980987,1,13,4,AB de Villiers,DJ Bravo,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980987,1,16,1,AB de Villiers,RA Jadeja,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980987,1,16,2,AB de Villiers,RA Jadeja,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980987,1,16,3,AB de Villiers,RA Jadeja,V Kohli,byes,0,1,1,0,0,,,,Royal Challengers Bangalore
+980987,1,16,5,AB de Villiers,RA Jadeja,V Kohli,,6,0,6,0,0,,,,Royal Challengers Bangalore
+980987,1,16,6,AB de Villiers,RA Jadeja,V Kohli,,6,0,6,0,0,,,,Royal Challengers Bangalore
+980987,1,17,5,AB de Villiers,DJ Bravo,V Kohli,noballs,4,1,5,0,0,,,,Royal Challengers Bangalore
+980987,1,17,6,AB de Villiers,DJ Bravo,V Kohli,,6,0,6,0,0,,,,Royal Challengers Bangalore
+980987,1,17,7,AB de Villiers,DJ Bravo,V Kohli,,6,0,6,0,0,,,,Royal Challengers Bangalore
+980981,1,2,1,AB de Villiers,JJ Bumrah,CH Gayle,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980981,1,2,2,AB de Villiers,JJ Bumrah,CH Gayle,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980981,1,2,3,AB de Villiers,JJ Bumrah,CH Gayle,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980981,1,2,4,AB de Villiers,JJ Bumrah,CH Gayle,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980981,1,2,5,AB de Villiers,JJ Bumrah,CH Gayle,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980981,1,2,6,AB de Villiers,JJ Bumrah,CH Gayle,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980981,1,8,5,AB de Villiers,JJ Bumrah,KL Rahul,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980959,1,12,6,AB de Villiers,SP Narine,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980937,1,6,1,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980937,1,6,3,AB de Villiers,RA Jadeja,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980937,1,6,4,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980937,1,6,6,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980931,1,7,1,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980931,1,7,3,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980931,1,11,2,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980931,1,11,4,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980931,1,11,6,AB de Villiers,R Ashwin,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+980931,1,15,1,AB de Villiers,R Ashwin,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+980931,1,15,2,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980931,1,15,8,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980927,1,5,2,AB de Villiers,JJ Bumrah,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+980927,1,5,4,AB de Villiers,JJ Bumrah,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+829795,1,3,2,AB de Villiers,SL Malinga,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+829795,1,3,3,AB de Villiers,SL Malinga,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+829795,1,3,4,AB de Villiers,SL Malinga,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+829795,1,3,5,AB de Villiers,SL Malinga,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+829795,1,3,6,AB de Villiers,SL Malinga,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+829795,1,4,3,AB de Villiers,JJ Bumrah,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+829795,1,4,7,AB de Villiers,JJ Bumrah,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+829795,1,6,3,AB de Villiers,JJ Bumrah,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+829795,1,6,4,AB de Villiers,JJ Bumrah,V Kohli,,2,0,2,0,0,,,,Royal Challengers Bangalore
+829795,1,6,5,AB de Villiers,JJ Bumrah,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+829795,1,12,2,AB de Villiers,SL Malinga,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+829795,1,12,5,AB de Villiers,SL Malinga,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+829795,1,12,6,AB de Villiers,SL Malinga,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+829795,1,13,2,AB de Villiers,JJ Bumrah,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+829795,1,13,4,AB de Villiers,JJ Bumrah,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+829795,1,13,5,AB de Villiers,JJ Bumrah,V Kohli,,2,0,2,0,0,,,,Royal Challengers Bangalore
+829795,1,13,6,AB de Villiers,JJ Bumrah,V Kohli,,2,0,2,0,0,,,,Royal Challengers Bangalore
+829795,1,16,3,AB de Villiers,JJ Bumrah,V Kohli,,6,0,6,0,0,,,,Royal Challengers Bangalore
+829795,1,16,4,AB de Villiers,JJ Bumrah,V Kohli,,6,0,6,0,0,,,,Royal Challengers Bangalore
+829795,1,16,5,AB de Villiers,JJ Bumrah,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+829795,1,16,6,AB de Villiers,JJ Bumrah,V Kohli,noballs,1,1,2,0,0,,,,Royal Challengers Bangalore
+829795,1,18,1,AB de Villiers,SL Malinga,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+829795,1,18,2,AB de Villiers,SL Malinga,V Kohli,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+829795,1,18,3,AB de Villiers,SL Malinga,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+829795,1,18,5,AB de Villiers,SL Malinga,V Kohli,,2,0,2,0,0,,,,Royal Challengers Bangalore
+829795,1,18,6,AB de Villiers,SL Malinga,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+829795,1,18,7,AB de Villiers,SL Malinga,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+829745,2,9,3,AB de Villiers,RA Jadeja,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+829745,2,9,4,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+829745,2,9,6,AB de Villiers,RA Jadeja,V Kohli,,6,0,6,0,0,,,,Royal Challengers Bangalore
+829737,2,12,1,AB de Villiers,SL Malinga,KD Karthik,wides,0,2,2,0,0,,,,Royal Challengers Bangalore
+829737,2,12,3,AB de Villiers,SL Malinga,RR Rossouw,,6,0,6,0,0,,,,Royal Challengers Bangalore
+829737,2,12,4,AB de Villiers,SL Malinga,RR Rossouw,,6,0,6,0,0,,,,Royal Challengers Bangalore
+829737,2,12,5,AB de Villiers,SL Malinga,RR Rossouw,,2,0,2,0,0,,,,Royal Challengers Bangalore
+829737,2,12,6,AB de Villiers,SL Malinga,RR Rossouw,,4,0,4,0,0,,,,Royal Challengers Bangalore
+829737,2,12,7,AB de Villiers,SL Malinga,RR Rossouw,,4,0,4,0,0,,,,Royal Challengers Bangalore
+829737,2,14,2,AB de Villiers,JJ Bumrah,D Wiese,,0,0,0,0,1,AB de Villiers,caught,KA Pollard,Royal Challengers Bangalore
+734035,1,15,5,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+734035,1,16,2,AB de Villiers,R Ashwin,V Kohli,legbyes,0,1,1,0,0,,,,Royal Challengers Bangalore
+734035,1,16,6,AB de Villiers,R Ashwin,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+734027,2,16,1,AB de Villiers,SP Narine,Yuvraj Singh,,1,0,1,0,0,,,,Royal Challengers Bangalore
+734027,2,16,3,AB de Villiers,SP Narine,S Rana,,1,0,1,0,0,,,,Royal Challengers Bangalore
+734027,2,16,5,AB de Villiers,SP Narine,S Rana,,2,0,2,0,0,,,,Royal Challengers Bangalore
+734027,2,16,6,AB de Villiers,SP Narine,S Rana,,0,0,0,0,1,AB de Villiers,bowled,,Royal Challengers Bangalore
+734021,1,13,2,AB de Villiers,DW Steyn,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+734021,1,13,4,AB de Villiers,DW Steyn,V Kohli,,2,0,2,0,0,,,,Royal Challengers Bangalore
+734021,1,13,5,AB de Villiers,DW Steyn,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+734013,2,14,2,AB de Villiers,RA Jadeja,CH Gayle,,0,0,0,0,0,,,,Royal Challengers Bangalore
+734013,2,14,3,AB de Villiers,RA Jadeja,CH Gayle,,1,0,1,0,0,,,,Royal Challengers Bangalore
+734013,2,16,3,AB de Villiers,R Ashwin,CH Gayle,,6,0,6,0,0,,,,Royal Challengers Bangalore
+734013,2,16,4,AB de Villiers,R Ashwin,CH Gayle,byes,0,1,1,0,0,,,,Royal Challengers Bangalore
+733983,2,11,2,AB de Villiers,SL Malinga,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+733983,2,11,3,AB de Villiers,SL Malinga,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+733983,2,11,6,AB de Villiers,SL Malinga,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+733983,2,12,2,AB de Villiers,JJ Bumrah,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+733983,2,12,3,AB de Villiers,JJ Bumrah,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+733983,2,12,4,AB de Villiers,JJ Bumrah,V Kohli,,0,0,0,0,1,AB de Villiers,bowled,,Royal Challengers Bangalore
+733977,2,16,1,AB de Villiers,DW Steyn,MA Starc,,1,0,1,0,0,,,,Royal Challengers Bangalore
+733977,2,16,3,AB de Villiers,DW Steyn,MA Starc,,0,0,0,0,0,,,,Royal Challengers Bangalore
+733977,2,16,4,AB de Villiers,DW Steyn,MA Starc,,0,0,0,0,0,,,,Royal Challengers Bangalore
+733977,2,16,5,AB de Villiers,DW Steyn,MA Starc,,1,0,1,0,0,,,,Royal Challengers Bangalore
+733977,2,18,1,AB de Villiers,DW Steyn,MA Starc,,6,0,6,0,0,,,,Royal Challengers Bangalore
+733977,2,18,2,AB de Villiers,DW Steyn,MA Starc,,6,0,6,0,0,,,,Royal Challengers Bangalore
+733977,2,18,3,AB de Villiers,DW Steyn,MA Starc,legbyes,0,1,1,0,0,,,,Royal Challengers Bangalore
+733977,2,18,5,AB de Villiers,DW Steyn,MA Starc,,4,0,4,0,0,,,,Royal Challengers Bangalore
+733977,2,18,6,AB de Villiers,DW Steyn,MA Starc,,6,0,6,0,0,,,,Royal Challengers Bangalore
+729299,2,15,6,AB de Villiers,SP Narine,Yuvraj Singh,,1,0,1,0,0,,,,Royal Challengers Bangalore
+729287,2,4,3,AB de Villiers,SL Malinga,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+729287,2,4,4,AB de Villiers,SL Malinga,PA Patel,,2,0,2,0,0,,,,Royal Challengers Bangalore
+729287,2,4,5,AB de Villiers,SL Malinga,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+729287,2,4,6,AB de Villiers,SL Malinga,PA Patel,,4,0,4,0,0,,,,Royal Challengers Bangalore
+729287,2,6,1,AB de Villiers,JJ Bumrah,PA Patel,,2,0,2,0,0,,,,Royal Challengers Bangalore
+729287,2,6,2,AB de Villiers,JJ Bumrah,PA Patel,,1,0,1,0,0,,,,Royal Challengers Bangalore
+729287,2,6,4,AB de Villiers,JJ Bumrah,PA Patel,,1,0,1,0,0,,,,Royal Challengers Bangalore
+729287,2,11,1,AB de Villiers,JJ Bumrah,PA Patel,,6,0,6,0,0,,,,Royal Challengers Bangalore
+729287,2,11,2,AB de Villiers,JJ Bumrah,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+729287,2,11,3,AB de Villiers,JJ Bumrah,PA Patel,,1,0,1,0,0,,,,Royal Challengers Bangalore
+729287,2,11,5,AB de Villiers,JJ Bumrah,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+729287,2,11,6,AB de Villiers,JJ Bumrah,PA Patel,,0,0,0,0,0,,,,Royal Challengers Bangalore
+729287,2,12,2,AB de Villiers,SL Malinga,PA Patel,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598068,1,5,3,AB de Villiers,DJ Bravo,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+598068,1,5,4,AB de Villiers,DJ Bravo,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598057,1,13,6,AB de Villiers,SP Narine,MC Henriques,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598012,1,8,6,AB de Villiers,R Ashwin,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+598012,1,8,7,AB de Villiers,R Ashwin,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+598012,1,9,2,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598012,1,9,4,AB de Villiers,RA Jadeja,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598012,1,9,6,AB de Villiers,RA Jadeja,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+598012,1,10,2,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598012,1,10,5,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598012,1,11,3,AB de Villiers,DJ Bravo,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598012,1,12,5,AB de Villiers,R Ashwin,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+598012,1,12,6,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598012,1,13,1,AB de Villiers,DJ Bravo,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+598012,1,13,2,AB de Villiers,DJ Bravo,V Kohli,,2,0,2,0,0,,,,Royal Challengers Bangalore
+598012,1,13,3,AB de Villiers,DJ Bravo,V Kohli,legbyes,0,1,1,0,0,,,,Royal Challengers Bangalore
+598012,1,13,5,AB de Villiers,DJ Bravo,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+598012,1,13,6,AB de Villiers,DJ Bravo,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598012,1,15,1,AB de Villiers,DJ Bravo,V Kohli,,2,0,2,0,0,,,,Royal Challengers Bangalore
+598012,1,15,2,AB de Villiers,DJ Bravo,V Kohli,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+598012,1,15,3,AB de Villiers,DJ Bravo,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598012,1,15,5,AB de Villiers,DJ Bravo,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598012,1,17,1,AB de Villiers,DJ Bravo,R Rampaul,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598008,2,12,1,AB de Villiers,SP Narine,CH Gayle,,4,0,4,0,0,,,,Royal Challengers Bangalore
+598008,2,12,2,AB de Villiers,SP Narine,CH Gayle,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598008,2,12,6,AB de Villiers,SP Narine,CH Gayle,,0,0,0,0,0,,,,Royal Challengers Bangalore
+598008,2,14,1,AB de Villiers,SP Narine,CH Gayle,,0,0,0,0,0,,,,Royal Challengers Bangalore
+598008,2,14,2,AB de Villiers,SP Narine,CH Gayle,,0,0,0,0,0,,,,Royal Challengers Bangalore
+598008,2,14,3,AB de Villiers,SP Narine,CH Gayle,,0,0,0,0,0,,,,Royal Challengers Bangalore
+598008,2,14,4,AB de Villiers,SP Narine,CH Gayle,,1,0,1,0,0,,,,Royal Challengers Bangalore
+598008,2,14,6,AB de Villiers,SP Narine,CH Gayle,,0,0,0,0,0,,,,Royal Challengers Bangalore
+548367,1,7,1,AB de Villiers,SL Malinga,TM Dilshan,,0,0,0,0,0,,,,Royal Challengers Bangalore
+548367,1,7,2,AB de Villiers,SL Malinga,TM Dilshan,,0,0,0,0,0,,,,Royal Challengers Bangalore
+548367,1,7,3,AB de Villiers,SL Malinga,TM Dilshan,,1,0,1,0,0,,,,Royal Challengers Bangalore
+548367,1,7,6,AB de Villiers,SL Malinga,TM Dilshan,,2,0,2,0,0,,,,Royal Challengers Bangalore
+548356,2,17,1,AB de Villiers,DW Steyn,J Syed Mohammad,,6,0,6,0,0,,,,Royal Challengers Bangalore
+548356,2,17,2,AB de Villiers,DW Steyn,J Syed Mohammad,,2,0,2,0,0,,,,Royal Challengers Bangalore
+548356,2,17,3,AB de Villiers,DW Steyn,J Syed Mohammad,,4,0,4,0,0,,,,Royal Challengers Bangalore
+548356,2,17,4,AB de Villiers,DW Steyn,J Syed Mohammad,,6,0,6,0,0,,,,Royal Challengers Bangalore
+548356,2,17,5,AB de Villiers,DW Steyn,J Syed Mohammad,,4,0,4,0,0,,,,Royal Challengers Bangalore
+548356,2,17,6,AB de Villiers,DW Steyn,J Syed Mohammad,,1,0,1,0,0,,,,Royal Challengers Bangalore
+548318,1,16,7,AB de Villiers,RA Jadeja,V Kohli,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+548318,1,16,8,AB de Villiers,RA Jadeja,V Kohli,,4,0,4,0,0,,,,Royal Challengers Bangalore
+501271,2,2,4,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+501270,1,17,1,AB de Villiers,SL Malinga,SS Tiwary,,1,0,1,0,0,,,,Royal Challengers Bangalore
+501270,1,17,4,AB de Villiers,SL Malinga,SS Tiwary,,1,0,1,0,0,,,,Royal Challengers Bangalore
+501270,1,17,6,AB de Villiers,SL Malinga,SS Tiwary,,2,0,2,0,0,,,,Royal Challengers Bangalore
+501270,1,19,2,AB de Villiers,SL Malinga,SS Tiwary,,1,0,1,0,0,,,,Royal Challengers Bangalore
+501270,1,19,5,AB de Villiers,SL Malinga,SS Tiwary,,2,0,2,0,0,,,,Royal Challengers Bangalore
+501270,1,19,6,AB de Villiers,SL Malinga,SS Tiwary,,2,0,2,0,0,,,,Royal Challengers Bangalore
+501266,2,0,1,AB de Villiers,R Ashwin,CH Gayle,,0,0,0,0,0,,,,Royal Challengers Bangalore
+501266,2,0,2,AB de Villiers,R Ashwin,CH Gayle,,0,0,0,0,0,,,,Royal Challengers Bangalore
+501266,2,0,3,AB de Villiers,R Ashwin,CH Gayle,,0,0,0,0,1,AB de Villiers,stumped,MS Dhoni,Royal Challengers Bangalore
+501211,2,8,1,AB de Villiers,R Ashwin,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+501211,2,8,2,AB de Villiers,R Ashwin,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+501211,2,8,3,AB de Villiers,R Ashwin,V Kohli,,0,0,0,0,0,,,,Royal Challengers Bangalore
+501211,2,8,4,AB de Villiers,R Ashwin,V Kohli,,1,0,1,0,0,,,,Royal Challengers Bangalore
+501211,2,11,1,AB de Villiers,R Ashwin,SS Tiwary,,4,0,4,0,0,,,,Royal Challengers Bangalore
+501211,2,11,2,AB de Villiers,R Ashwin,SS Tiwary,legbyes,0,1,1,0,0,,,,Royal Challengers Bangalore
+501211,2,11,4,AB de Villiers,R Ashwin,SS Tiwary,,1,0,1,0,0,,,,Royal Challengers Bangalore
+501211,2,15,1,AB de Villiers,R Ashwin,CA Pujara,legbyes,0,1,1,0,0,,,,Royal Challengers Bangalore
+501211,2,15,4,AB de Villiers,R Ashwin,CA Pujara,,2,0,2,0,0,,,,Royal Challengers Bangalore
+501211,2,15,5,AB de Villiers,R Ashwin,CA Pujara,,4,0,4,0,0,,,,Royal Challengers Bangalore
+501211,2,15,6,AB de Villiers,R Ashwin,CA Pujara,,1,0,1,0,0,,,,Royal Challengers Bangalore
+501200,2,9,1,AB de Villiers,RA Jadeja,MA Agarwal,,0,0,0,0,0,,,,Royal Challengers Bangalore
+501200,2,9,2,AB de Villiers,RA Jadeja,MA Agarwal,,0,0,0,0,0,,,,Royal Challengers Bangalore
+501200,2,9,3,AB de Villiers,RA Jadeja,MA Agarwal,,4,0,4,0,0,,,,Royal Challengers Bangalore
+501200,2,9,4,AB de Villiers,RA Jadeja,MA Agarwal,,1,0,1,0,0,,,,Royal Challengers Bangalore
+501200,2,11,1,AB de Villiers,RA Jadeja,SS Tiwary,,0,0,0,0,0,,,,Royal Challengers Bangalore
+501200,2,11,2,AB de Villiers,RA Jadeja,SS Tiwary,,1,0,1,0,0,,,,Royal Challengers Bangalore
+501200,2,11,5,AB de Villiers,RA Jadeja,SS Tiwary,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+501200,2,11,6,AB de Villiers,RA Jadeja,SS Tiwary,,1,0,1,0,0,,,,Royal Challengers Bangalore
+501200,2,15,1,AB de Villiers,RA Jadeja,SS Tiwary,,0,0,0,0,0,,,,Royal Challengers Bangalore
+501200,2,15,2,AB de Villiers,RA Jadeja,SS Tiwary,,1,0,1,0,0,,,,Royal Challengers Bangalore
+501200,2,15,4,AB de Villiers,RA Jadeja,SS Tiwary,,1,0,1,0,0,,,,Royal Challengers Bangalore
+501200,2,15,6,AB de Villiers,RA Jadeja,SS Tiwary,,1,0,1,0,0,,,,Royal Challengers Bangalore
+419128,1,3,6,AB de Villiers,DW Steyn,V Sehwag,,3,0,3,0,0,,,,Delhi Daredevils
+419128,1,11,4,AB de Villiers,DW Steyn,KD Karthik,,0,0,0,0,1,KD Karthik,run out,DW Steyn,Delhi Daredevils
+419128,1,11,5,AB de Villiers,DW Steyn,KM Jadhav,,1,0,1,0,0,,,,Delhi Daredevils
+419116,1,12,1,AB de Villiers,R Ashwin,KD Karthik,,1,0,1,0,0,,,,Delhi Daredevils
+419116,1,12,3,AB de Villiers,R Ashwin,KD Karthik,,0,0,0,0,1,AB de Villiers,caught,SK Raina,Delhi Daredevils
+419114,2,3,5,AB de Villiers,SL Malinga,V Sehwag,,4,0,4,0,0,,,,Delhi Daredevils
+419114,2,3,6,AB de Villiers,SL Malinga,V Sehwag,,1,0,1,0,0,,,,Delhi Daredevils
+419114,2,4,1,AB de Villiers,DJ Bravo,V Sehwag,,0,0,0,0,0,,,,Delhi Daredevils
+419114,2,4,2,AB de Villiers,DJ Bravo,V Sehwag,,0,0,0,0,0,,,,Delhi Daredevils
+419114,2,4,3,AB de Villiers,DJ Bravo,V Sehwag,,0,0,0,0,0,,,,Delhi Daredevils
+419114,2,4,4,AB de Villiers,DJ Bravo,V Sehwag,,4,0,4,0,0,,,,Delhi Daredevils
+419114,2,4,5,AB de Villiers,DJ Bravo,V Sehwag,,1,0,1,0,0,,,,Delhi Daredevils
+419114,2,6,2,AB de Villiers,DJ Bravo,MF Maharoof,legbyes,0,1,1,0,0,,,,Delhi Daredevils
+419114,2,6,5,AB de Villiers,DJ Bravo,MF Maharoof,,0,0,0,0,1,AB de Villiers,bowled,,Delhi Daredevils
+392230,1,12,1,AB de Villiers,RA Jadeja,TM Dilshan,,4,0,4,0,0,,,,Delhi Daredevils
+392230,1,12,2,AB de Villiers,RA Jadeja,TM Dilshan,,0,0,0,0,0,,,,Delhi Daredevils
+392230,1,12,3,AB de Villiers,RA Jadeja,TM Dilshan,,1,0,1,0,0,,,,Delhi Daredevils
+392230,1,12,5,AB de Villiers,RA Jadeja,TM Dilshan,,0,0,0,0,0,,,,Delhi Daredevils
+392230,1,12,6,AB de Villiers,RA Jadeja,TM Dilshan,,1,0,1,0,0,,,,Delhi Daredevils
+392230,1,14,1,AB de Villiers,RA Jadeja,TM Dilshan,,1,0,1,0,0,,,,Delhi Daredevils
+392230,1,14,3,AB de Villiers,RA Jadeja,TM Dilshan,,1,0,1,0,0,,,,Delhi Daredevils
+392230,1,14,5,AB de Villiers,RA Jadeja,TM Dilshan,,1,0,1,0,0,,,,Delhi Daredevils
+392215,2,17,1,AB de Villiers,SL Malinga,TM Dilshan,,0,0,0,0,0,,,,Delhi Daredevils
+392215,2,17,2,AB de Villiers,SL Malinga,TM Dilshan,,0,0,0,0,0,,,,Delhi Daredevils
+392215,2,17,3,AB de Villiers,SL Malinga,TM Dilshan,,2,0,2,0,0,,,,Delhi Daredevils
+392215,2,17,4,AB de Villiers,SL Malinga,TM Dilshan,,1,0,1,0,0,,,,Delhi Daredevils
+392198,1,11,1,AB de Villiers,RA Jadeja,DL Vettori,,1,0,1,0,0,,,,Delhi Daredevils
+392198,1,11,4,AB de Villiers,RA Jadeja,DL Vettori,,4,0,4,0,0,,,,Delhi Daredevils
+392198,1,11,5,AB de Villiers,RA Jadeja,DL Vettori,,2,0,2,0,0,,,,Delhi Daredevils
+392198,1,11,6,AB de Villiers,RA Jadeja,DL Vettori,,1,0,1,0,0,,,,Delhi Daredevils
+392198,1,13,2,AB de Villiers,RA Jadeja,DL Vettori,,1,0,1,0,0,,,,Delhi Daredevils
+392198,1,13,4,AB de Villiers,RA Jadeja,DL Vettori,,0,0,0,0,0,,,,Delhi Daredevils
+392198,1,13,5,AB de Villiers,RA Jadeja,DL Vettori,,0,0,0,0,0,,,,Delhi Daredevils
+392198,1,13,6,AB de Villiers,RA Jadeja,DL Vettori,,1,0,1,0,0,,,,Delhi Daredevils
+336026,2,14,1,AB de Villiers,DW Steyn,S Dhawan,,0,0,0,0,0,,,,Delhi Daredevils
+336026,2,14,2,AB de Villiers,DW Steyn,S Dhawan,,0,0,0,0,1,AB de Villiers,caught,SP Goswami,Delhi Daredevils
+336004,2,5,1,AB de Villiers,DJ Bravo,V Sehwag,,1,0,1,0,0,,,,Delhi Daredevils
+336004,2,5,3,AB de Villiers,DJ Bravo,V Sehwag,,2,0,2,0,0,,,,Delhi Daredevils
+336004,2,5,4,AB de Villiers,DJ Bravo,V Sehwag,,0,0,0,0,0,,,,Delhi Daredevils
+336004,2,5,5,AB de Villiers,DJ Bravo,V Sehwag,,0,0,0,0,0,,,,Delhi Daredevils
+336004,2,5,6,AB de Villiers,DJ Bravo,V Sehwag,,4,0,4,0,0,,,,Delhi Daredevils

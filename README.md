@@ -16,8 +16,8 @@ https://abd-ipl-matchup-analytics-17.streamlit.app/
 
 ## Dashboard Preview
 
-![alt text](image-1.png)
-![alt text](image.png)
+![Dashboard Preview](images/image.png)
+![Dashboard Preview](images/image-1.png)
 
 ---
 
@@ -134,6 +134,10 @@ abd-ipl-matchup-analytics/
 ├── requirements.txt
 ├── README.md
 │
+├── images/
+│   ├── image.png
+│   └── image-1.png
+│
 ├── data/
 │   ├── raw/
 │   └── processed/
@@ -143,13 +147,20 @@ abd-ipl-matchup-analytics/
 │   ├── 02_cleaning_filtering.ipynb
 │   ├── 03_feature_engineering.ipynb
 │   └── 04_visualizations_advanced.ipynb
+```
 
-Future Improvements
-Add interactive filters for bowlers and phases
-Include dismissal analysis
-Add advanced visualizations using Plotly
-Deploy with custom Streamlit theme
-Expand analysis to other IPL batters
-Author
+---
+
+## Future Improvements
+
+- Add interactive filters for bowlers and phases
+- Include dismissal analysis
+- Add advanced visualizations using Plotly
+- Deploy with custom Streamlit theme
+- Expand analysis to other IPL batters
+
+---
+
+## Author
 
 Anukiran Bathula
